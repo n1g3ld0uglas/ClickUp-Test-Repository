@@ -1,7 +1,7 @@
 # ClickUp Test Repository
 Documenting the GitHub Integration with ClickUp
 
-# Sample JavaScript code to animate text
+### Sample JavaScript code to animate text
 Changes I make to this code should be reflected in the ClickUp Audit trail
 ```
 text="JavaScript Resources"
