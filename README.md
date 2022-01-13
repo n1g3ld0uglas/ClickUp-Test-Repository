@@ -1,2 +1,2 @@
-# ClickUp-Test-Repository
-ClickUp-Test-Repository
+# ClickUp Test Repository
+Documenting the GitHub Integration with ClickUp
