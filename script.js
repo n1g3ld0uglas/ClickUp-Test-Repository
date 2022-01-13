@@ -18,9 +18,8 @@ text="JavaScript Resources"
 //Set the time you want it to wait before it starts after pageload:
 	var timetowait=1000
         
-/*You can remove this if you don't wan't it to start right away.
-You can have it start if someone clicks a link (make a link like this:
-<a href="#" onclick="writeInit()">Click to writetext</a>)*/
+
+/*<a href="#" onclick="writeInit()">Click to writetext</a>)*/
 	onload=writeInit;
 
 /*You shouldn't really have to set anything below this point
